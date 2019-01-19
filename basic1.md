@@ -1,17 +1,17 @@
-##some basic commands
+## some basic commands
 
-_print the current directory_
-cmd-dir$pwd
-*change directory*
-cmd-dir$cd anotherdir/
-_list contents of dir_
-cmd-dir$ls
-*list contents of dir including hidden contents*
-cmd-dir$ls -a
-_list in long format: permissions, owners, .._
-cmd-dir$ls -l 
-cmd-dir$ls -la
-_navigate to parent dir_
-cmd-dir$cd ..
-*navigate two dir back*
-cmd-dir$cd ../..
+- print the current directory  
+  cmd-dir\$pwd
+- change directory  
+  cmd-dir\$cd anotherdir/
+- list contents of dir  
+  cmd-dir\$ls
+- list contents of dir including hidden contents  
+  cmd-dir\$ls -a
+- list in long format: permissions, owners, ..  
+  cmd-dir\$ls -l  
+  cmd-dir\$ls -la
+- navigate to parent dir  
+  cmd-dir\$cd ..
+- navigate two dir back  
+  cmd-dir\$cd ../..
